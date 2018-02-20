@@ -1,0 +1,20 @@
+name: VoteMute
+main: qwq.vmMain
+version: 1.0
+author: DomRR
+commands:
+ vm:
+  description: 投票禁言.
+  usage: /<command> <玩家>
+  permission: votemute.use
+  permission-message: 你没有 <permission> 权限.
+ vmy:
+  description: 投票禁言.
+  usage: /<command> <玩家>
+  permission: votemute.vmy
+  permission-message: 你没有 <permission> 权限.
+ vmn:
+  description: 投票禁言.
+  usage: /<command> <玩家>
+  permission: votemute.vmn
+  permission-message: 你没有 <permission> 权限.
